@@ -1,4 +1,4 @@
-# XboxRemoteController Xbox远程遥控器
+# Xbox远程遥控器
 
 ---
 ![效果图](Assets/UI/Textures/temp.png)
